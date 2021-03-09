@@ -1,0 +1,15 @@
+{
+  "name": "cafepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cafePro.js",
+  "dependencies": {
+    "random-word-wikipedia": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
